@@ -19,7 +19,15 @@ body {
 h1 {
   color: #2c3e50;
 }
+h1 {
+  font-size: 32px;
+  margin-bottom: 5px;
+}
 
+.container p:first-of-type {
+  color: #666;
+  margin-top: 0;
+}
 h2 {
   color: #34495e;
 }
