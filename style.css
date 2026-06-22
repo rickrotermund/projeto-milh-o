@@ -42,3 +42,16 @@ a {
 a:hover {
   background-color: #34495e;
 }
+.card {
+  background: #f9f9f9;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+  border: 1px solid #e0e0e0;
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
