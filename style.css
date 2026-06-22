@@ -55,3 +55,17 @@ a:hover {
   transform: scale(1.02);
   box-shadow: 0 8px 20px rgba(0,0,0,0.1);
 }
+.card a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 12px;
+  background-color: #2c3e50;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.card a:hover {
+  background-color: #34495e;
+}
