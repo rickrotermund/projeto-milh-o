@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <title>Meu Portfólio</title>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Meu Portfólio</h1>
+
+<p>Estou aprendendo programação e construindo meus primeiros projetos.</p>
+
+<h2>Sobre mim</h2>
+<p>Tenho 18 anos e estou estudando tecnologia para criar projetos na internet.</p>
+
+<h2>Objetivo</h2>
+<p>Aprender habilidades para criar sistemas, sites e soluções que possam gerar renda no futuro.</p>
+
+</div>
+
+</body>
+</html>
